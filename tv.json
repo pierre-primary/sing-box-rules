@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "haiwaikan.com",
+                "cnysdh.com",
+                "cnys.tv",
+                "cnys1.tv",
+                "iole.com",
+                "iole.app",
+                "iole.tv",
+                "olevod.com",
+                "olelive.com",
+                "olehdtv.com",
+                "v82u1l.com",
+                "iz8qkg.com",
+                "kin6c1.com"
+            ],
+            "domain_suffix": [
+                ".haiwaikan.com",
+                ".cnysdh.com",
+                ".cnys.tv",
+                ".cnys1.tv",
+                ".iole.com",
+                ".iole.app",
+                ".iole.tv",
+                ".olevod.com",
+                ".olelive.com",
+                ".olehdtv.com",
+                ".v82u1l.com",
+                ".iz8qkg.com",
+                ".kin6c1.com"
+            ]
+        }
+    ]
+}

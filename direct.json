@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "codeium.com"
+            ],
+            "domain_suffix": [
+                ".codeium.com"
+            ]
+        }
+    ]
+}

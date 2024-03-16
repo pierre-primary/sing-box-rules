@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "ip.sb",
+                "ip.gs",
+                "ipget.net",
+                "skk.moe",
+                "ip-api.com",
+                "ipinfo.io"
+            ],
+            "domain_suffix": [
+                ".ip.sb",
+                ".ip.gs",
+                ".ipget.net",
+                ".skk.moe",
+                ".ip-api.com",
+                ".ipinfo.io"
+            ]
+        }
+    ]
+}
