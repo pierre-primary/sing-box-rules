@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "githubusercontent.com",
+                "docker.io"
+            ],
+            "domain_suffix": [
+                ".githubusercontent.com",
+                ".docker.io"
+            ]
+        }
+    ]
+}
