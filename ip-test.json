@@ -18,6 +18,13 @@
                 ".ip-api.com",
                 ".ipinfo.io"
             ]
+        },
+        {
+            "domain_suffix": [
+                ".proof.ovh.net",
+                ".proof.ovh.us",
+                ".proof.ovh.ca"
+            ]
         }
     ]
 }
